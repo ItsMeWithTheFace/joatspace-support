@@ -4,7 +4,7 @@ import SupportForm from './SupportForm';
 
 const Support = () => {
   const style = {
-    marginTop: '5rem'
+    marginTop: '3rem',
   };
 
   return (
@@ -26,7 +26,7 @@ const Support = () => {
       </Row>
       <Row>
         <Col width="sm">
-          <SupportForm style={style} />
+          <SupportForm />
         </Col>
       </Row>
     </Container>
