@@ -6,8 +6,8 @@ class NavInstance extends Component {
     return (
       <div>
         <Navbar color="light" light expand="md">
-          <NavbarBrand>
-            <a href="https://www.joatspace.com/">JoatSpace</a>
+          <NavbarBrand href="https://www.joatspace.com/">
+            JoatSpace
           </NavbarBrand>
           <Nav className="ml-auto" navbar>
             <NavItem>
