@@ -3,9 +3,7 @@
 This is a sample support page for JoatSpace.
 
 ## Running
-<aside class="notice">
-  Make sure you set the environment variables for the email service in `src/config.js`
-</aside>
+Make sure you set the environment variables for the email service in `src/config.js`
 
 To run in development mode do:
 ```bash
